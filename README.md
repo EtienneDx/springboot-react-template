@@ -4,6 +4,7 @@
 
 ```
 npx create-nx-workspace@latest my-monorepo --preset=ts --nxCloud=false
+cd my-monorepo
 ```
 
 There, we will choose `package-based monorepo` and won't enable cloud builds.
